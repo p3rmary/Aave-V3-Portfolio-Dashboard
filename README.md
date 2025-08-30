@@ -56,7 +56,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-4. Open your browser and navigate to `http://localhost:8501`
+4. Open your browser and navigate to `(https://aave-v3-portfolio-dashboard.streamlit.app/)`
 
 ## Usage
 
