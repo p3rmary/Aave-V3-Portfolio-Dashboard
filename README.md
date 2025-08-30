@@ -56,7 +56,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-4. Open your browser and navigate to  [Dune Analytics user settings page](https://aave-v3-portfolio-dashboard.streamlit.app/)
+4. Open your browser and navigate to  [Aave-V3-Portfolio-Dashboard](https://aave-v3-portfolio-dashboard.streamlit.app/)
 
 ## Usage
 
